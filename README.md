@@ -1,5 +1,5 @@
 - 💻 Olá, Eu me chamo @OrlandoCosta1974
-- 👀 estudante de Ciência da Computação no primeiro semestre.
+- 👀 estudante de Ciência da Computação Terceiro semestre.
 - Tenho um grande interesse em programação e estou constantemente buscando aprender mais e aprimorar minhas habilidades.
 - Atualmente, assisto aulas todos os dias às 19:00 e estou empolgado para aplicar o conhecimento adquirido em projetos práticos...
 - 🌱 Desenvolvimento web em HTML5, CSS, JavaScript, PHP e Paradigmas da Linguagem de programação em Python
