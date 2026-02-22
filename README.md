@@ -8,7 +8,7 @@
 # 👋 Orlando Costa | OrlandoDEV
 
 🎓 **Ciência da Computação (Estácio – RJ)** • 🏭 **Supervisor de Produção** • 🚀 **Transição para TI**  
-💻 Python • Automação • Dados • Web (Flask) • Dashboards
+💻 Python • Automação • Dados • Web (Flask) • Dashboards • IA
 
 <a href="#pt-br"><b>🇧🇷 Português</b></a> • <a href="#en-us"><b>🇺🇸 English</b></a>
 
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 <br/><br/>
 
@@ -43,10 +43,10 @@
 ## 🇧🇷 Sobre mim
 
 Sou estudante de **Ciência da Computação** e atuo como **Supervisor de Produção** em uma multinacional.  
-Estou em **transição para TI**, focado em **Python**, **automação**, **dados** e **desenvolvimento web** (Flask), com objetivo de atuar em projetos reais e escaláveis (preferência por **Home Office**).
+Estou em **transição para TI**, com foco em **Python**, **automação**, **dados**, **IA aplicada** e **desenvolvimento web** (Flask), construindo projetos práticos para evoluir minhas habilidades e gerar impacto real.
 
 ### 🎯 Objetivo
-Aplicar tecnologia para resolver problemas do mundo real, especialmente envolvendo **processos**, **indicadores**, **relatórios**, **automação** e **dashboards**.
+Atuar profissionalmente com tecnologia, criando soluções escaláveis para **automação**, **análise de dados**, **dashboards** e **aplicações web**, conectando experiência industrial com desenvolvimento de software.
 
 ### 🧠 Foco de estudos
 - Automação com **Python** (scripts, integrações, rotinas)
@@ -60,23 +60,21 @@ Aplicar tecnologia para resolver problemas do mundo real, especialmente envolven
 
 ## 🚀 Projetos em destaque
 
-> ✅ Substitua os links abaixo pelos seus repositórios reais (ou me diga os nomes que eu ajusto para você).
+- **🥗 NutriSmart App**  
+  Aplicativo em desenvolvimento para ajudar no planejamento alimentar e no acompanhamento de hábitos nutricionais de forma simples e organizada.  
+  🔗 https://github.com/OrlandoCosta1974/nutrismart-app
 
-- **📊 Dashboard de Produção (OEE/Indicadores)**  
-  Projeto para analisar produtividade, paradas e eficiência com planilhas e visualização.  
-  🔗 https://github.com/OrlandoCosta1974/dashboard-producao
+- **🧠 PsicobotAI**  
+  Projeto de assistente com IA para experimentar conversação, prompts e automações voltadas a suporte e orientação ao usuário.  
+  🔗 https://github.com/OrlandoCosta1974/psicobotAI
 
-- **📩 Automação de Relatórios + Envio por E-mail**  
-  Geração automática de relatórios (Excel/PDF) e notificações.  
-  🔗 https://github.com/OrlandoCosta1974/automacao-relatorios
+- **🌍 Alerta Asteroide IA**  
+  Projeto de monitoramento e geração de alertas/conteúdo sobre asteroides e astronomia, usando automação e recursos de IA.  
+  🔗 https://github.com/OrlandoCosta1974/alerta-asteroide-ia
 
-- **🌐 App Flask com Login e Upload de Arquivos**  
-  Sistema web com autenticação, pastas por usuário e painel moderno.  
-  🔗 https://github.com/OrlandoCosta1974/flask-file-server
-
-- **🧠 IA/Modelos Locais (Estudos)**  
-  Experimentos com LLM local, prompts e base de conhecimento.  
-  🔗 https://github.com/OrlandoCosta1974/ia-estudos
+- **🔧 DIO Lab Open Source (contribuições/estudos)**  
+  Repositório de estudos e contribuições em open source, seguindo práticas de versionamento, colaboração e melhorias contínuas.  
+  🔗 https://github.com/digitalinnovationone/dio-lab-open-source
 
 ---
 
@@ -93,8 +91,8 @@ Aplicar tecnologia para resolver problemas do mundo real, especialmente envolven
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OrlandoCosta1974&show_icons=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoCosta1974&layout=compact" />
 
 </div>
 
@@ -104,7 +102,7 @@ Aplicar tecnologia para resolver problemas do mundo real, especialmente envolven
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=OrlandoCosta1974&no-frame=true&margin-w=10" />
 
 </div>
 
@@ -113,7 +111,7 @@ Aplicar tecnologia para resolver problemas do mundo real, especialmente envolven
 ## 🤝 Vamos colaborar?
 
 Estou aberto a:
-- Colaboração em projetos (Python/Flask/Dados/Automação)
+- Colaboração em projetos (Python/Flask/Dados/Automação/IA)
 - Networking e troca de conhecimento
 - Feedbacks e boas práticas
 
@@ -126,10 +124,10 @@ Estou aberto a:
 ## 🇺🇸 About me
 
 I’m a **Computer Science** student and currently work as a **Production Supervisor** at a multinational company.  
-I’m transitioning into **Tech**, focusing on **Python**, **automation**, **data**, and **web development** (Flask), aiming to build practical and scalable solutions (remote work preferred).
+I’m transitioning into **Tech**, focusing on **Python**, **automation**, **data**, **applied AI**, and **web development** (Flask), building practical projects to grow my skills and deliver real-world value.
 
 ### 🎯 Goal
-Use technology to solve real-world problems, especially around **process improvement**, **KPIs**, **reports**, **automation**, and **dashboards**.
+Work professionally in technology, creating scalable solutions for **automation**, **data analysis**, **dashboards**, and **web applications**, combining industrial experience with software development.
 
 ### 🧠 Current focus
 - **Python** automation (scripts, integrations, routines)
@@ -143,23 +141,21 @@ Use technology to solve real-world problems, especially around **process improve
 
 ## 🚀 Featured Projects
 
-> ✅ Replace the links below with your real repositories.
+- **🥗 NutriSmart App**  
+  A work-in-progress app to help plan meals and track nutrition habits in a simple, organized way.  
+  🔗 https://github.com/OrlandoCosta1974/nutrismart-app
 
-- **📊 Production Dashboard (OEE/KPIs)**  
-  Productivity, downtime, and efficiency analysis with spreadsheets and visualization.  
-  🔗 https://github.com/SEU_USUARIO/dashboard-producao
+- **🧠 PsicobotAI**  
+  An AI assistant project to experiment with conversation, prompting, and user-support oriented automations.  
+  🔗 https://github.com/OrlandoCosta1974/psicobotAI
 
-- **📩 Automated Reports + Email Notifications**  
-  Automated Excel/PDF reporting and notifications.  
-  🔗 https://github.com/SEU_USUARIO/automacao-relatorios
+- **🌍 Asteroid Alert AI**  
+  A project to monitor and generate alerts/content about asteroids and astronomy using automation and AI resources.  
+  🔗 https://github.com/OrlandoCosta1974/alerta-asteroide-ia
 
-- **🌐 Flask App with Login and File Upload**  
-  Web system with authentication, user folders, and a modern dashboard.  
-  🔗 https://github.com/SEU_USUARIO/flask-file-server
-
-- **🧠 Local AI / LLM Studies**  
-  Experiments with local LLMs, prompts, and knowledge base workflows.  
-  🔗 https://github.com/SEU_USUARIO/ia-estudos
+- **🔧 DIO Open Source Lab (contributions/studies)**  
+  A repository for open-source learning and contributions, practicing version control, collaboration, and continuous improvement.  
+  🔗 https://github.com/digitalinnovationone/dio-lab-open-source
 
 ---
 
